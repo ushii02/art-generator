@@ -8,6 +8,7 @@ Personalized-Art-Generator-
 🔄 Iterative feedback loop for personalization
 🖥️ Streamlit UI with real-time previews and history
 🛡️ Responsible AI notes & opt-in content filters
+
 🛠️ Tech Stack
 Frontend: Streamlit
 Backend: Python (NLP + image processing)
